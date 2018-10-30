@@ -4,6 +4,7 @@ export const ROLE_EXPECTATIONS = {
       description: 'A sentence about what Technical Excellence means for an Associate Engineer.',
       behaviors: [
         'Broad knowledge of programming concepts.',
+        'Works effectively within established architectures, following current best practices.',
       ],
     },
     DELIVERY: {
